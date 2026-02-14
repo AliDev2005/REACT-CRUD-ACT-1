@@ -18,5 +18,5 @@ Ejemplo:
 - 📖 Visualizar lista de registros.
 - ✏️ Editar un registro existente.
 - ❌ Eliminar un registro.
-- (Opcional) Persistencia de datos con localStorage o base de datos.
-- (Opcional) Diseño responsivo.
+-  Persistencia de datos con localStorage o base de datos.
+-  Diseño responsivo.
